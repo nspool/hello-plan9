@@ -1,10 +1,10 @@
-# plan9-gui-demo
+# hello-plan9
 
-Bouncing ball with menu options using libdraw and libcontrol. Learning to write a GUI app for Plan 9 from Bell Labs.
+A very simple GUI app for Plan 9 from Bell Labs.
+
+Just a bouncing ball with menu options. Using libdraw to animate the ball and libcontrol for the menu.
 
 ![Screenshot](ball.png?raw=true "Screenshot showing window, ball and Exit menu item")
-
-Feedback and improvements welcome!
 
 ## Build Instructions
 
