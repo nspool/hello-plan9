@@ -8,6 +8,6 @@ Just a bouncing ball with menu options. Using libdraw to animate the ball and li
 
 ## Build Instructions
 
-To compile and link from a Plan 9 terminal:
+To compile and link from a i386 Plan 9 terminal:
 
 `8c -FTVw ball.c && 8l -o ball ball.8`
