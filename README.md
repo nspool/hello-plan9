@@ -1,6 +1,6 @@
 # hello-plan9
 
-A very simple GUI app for Plan 9 from Bell Labs. [This blog post](https://nspool.me/2013/02/bouncing-ball/) explains the code in more detail.
+A very simple GUI app for Plan 9 from Bell Labs. [This blog post](https://nspool.github.io/2013/02/bouncing-ball/) explains the code in more detail.
 
 Just a bouncing ball with menu options. Using libdraw to animate the ball and libevent for the menu.
 
